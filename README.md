@@ -25,6 +25,8 @@ The notebook reports:
 - ROC visualization
 - Best KNN parameters from grid search
 
+<img width="559" height="432" alt="image" src="https://github.com/user-attachments/assets/fc1bf5af-7c46-4d08-a8d9-d3add4b20ff4" />
+
 ## Setup
 Install dependencies:
 
